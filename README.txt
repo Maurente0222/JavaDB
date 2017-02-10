@@ -1,5 +1,5 @@
 Author: Maximiliano Maurente
-COP 4710
+USF COP 4710 Database Design
 
 "Vector as a Database"
 This project is coded in Java
